@@ -7,7 +7,7 @@ Cuento con el título de técnico informático y poseo un B2 First en inglés en
 ## Redes 📱
 [![Twitch Status](https://img.shields.io/twitch/status/SetosTm?color=%23A033FF&style=for-the-badge&logo=twitch)](https://twitch.com/SetosTm)
 <br>
-[![Twitter](https://img.shields.io/badge/Twitter-@Danim299-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/mouredev)
+[![Twitter](https://img.shields.io/badge/Twitter-@Danim299-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/danim299)
 <br>
 [![Instagram](https://img.shields.io/badge/Instagram-@Danim__299-E4405F?style=for-the-badge&logo=instagram&logoColor)](https://www.instagram.com/danim_299)
 <br>
