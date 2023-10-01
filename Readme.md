@@ -2,7 +2,7 @@
 
 Mi nombre es Daniel Medina, castellanoleonés y actualmente me dedico a estudiar desarrollo de aplicaciones multiplataforma (Multi-platform application development)
 
-Cuento con el título de técnico informático y poseo un B2 First en inglés en proceso de C1 Advanced
+Cuento con el título de técnico informático y poseo un B2 First en inglés, proceso de C1 Advanced
 
 ## Redes 📱
 [![Twitch Status](https://img.shields.io/twitch/status/SetosTm?color=%23A033FF&style=for-the-badge&logo=twitch)](https://twitch.com/SetosTm)
