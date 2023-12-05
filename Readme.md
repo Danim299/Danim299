@@ -22,6 +22,8 @@ Cuento con el título de técnico informático y poseo un B2 First en inglés, p
 [![MySQL](https://img.shields.io/badge/MySQL-B358FD?style=for-the-badge&logo=mysql&logoColor=white)]()
 <br>
 [![MySQL](https://img.shields.io/badge/Oracle-9FFE40?style=for-the-badge&logo=Oracle&logoColor=white)]()
+<br>
+[![Kotlin](https://img.shields.io/badge/Kotlin-F95EE9?style=for-the-badge&logo=python)]()
 
 ## Contacto
 [![Email](https://img.shields.io/badge/dm46688@gmail.com-email_personal-e28743?style=for-the-badge&logo=gmail)](mailto:dm46688@gmail.com)
