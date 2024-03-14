@@ -25,7 +25,7 @@ Cuento con el título de técnico informático y poseo un B2 First en inglés, p
 <br>
 [![Kotlin](https://img.shields.io/badge/Kotlin-FA7D63?style=for-the-badge&logo=kotlin)]()
 <br>
-[![C#](https://img.shields.io/badge/-FC6F90?style=for-the-badge&logo=C)#]()
+[![C#](https://img.shields.io/badge/-FC6F90?style=for-the-badge&logo=C)]()
 
 ## Contacto
 [![Email](https://img.shields.io/badge/dm46688@gmail.com-email_personal-e28743?style=for-the-badge&logo=gmail)](mailto:dm46688@gmail.com)
