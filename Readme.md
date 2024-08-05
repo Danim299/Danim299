@@ -1,8 +1,17 @@
 # ![](https://raw.githubusercontent.com/Danim299/Danim299/master/Banner-GitHub.jpg)Hola <img src="https://raw.githubusercontent.com/Danim299/Danim299/master/wave.gif" width="30px">
 
-Mi nombre es Daniel Medina, castellanoleonés y actualmente me dedico a estudiar desarrollo de aplicaciones multiplataforma (Multi-platform application development)
 
-Cuento con el título de técnico informático y poseo un B2 First en inglés, proceso de C1 Advanced
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí
+
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<br>
+- :computer: Full-Stack software developer
+- :bookmark_tabs: Puedes echar un vistazo a mi portfolio aquí :point_right: [![](https://img.shields.io/badge/Portfolio-f5ea97?style=flat-square)](https://danimedev.vercel.app)
+- :calling: Contáctame siempre que quieras :smiley:
+<br>
+<br>
+
 
 ## Redes 📱
 [![Twitter](https://img.shields.io/badge/Twitter-@Danim299-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/danim299)
@@ -11,6 +20,8 @@ Cuento con el título de técnico informático y poseo un B2 First en inglés, p
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Medina-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-medina-cubero-57165a155/)
 <br>
+
+
 
 ## Tecnologías
 [![Python](https://img.shields.io/badge/Python-FFED33?style=for-the-badge&logo=python)]()
