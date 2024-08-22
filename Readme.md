@@ -7,7 +7,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 <br>
 - :computer: Full-Stack software developer
-- :bookmark_tabs: Puedes echar un vistazo a mi portfolio aquí :point_right: [![](https://img.shields.io/badge/Portfolio-f5ea97?style=flat-square)](https://danimedev.vercel.app)
+- :bookmark_tabs: Puedes echar un vistazo a mi portfolio aquí :point_right: [![](https://img.shields.io/badge/Portfolio-f5ea97?style=flat-square)](https://www.danielmed.dev)
 - :calling: Contáctame siempre que quieras :smiley:
 <br>
 <br>
