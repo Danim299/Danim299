@@ -73,10 +73,8 @@
 ### ✨ Dynamic Developer Vibes
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Design.+Ship.+Repeat.;Passionate+about+clean+architecture.;Crafting+interactive+experiences.;Always+learning+something+new.🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Code.+Design.+Ship.+Repeat.;Looking+for+clean+architecture.;Crafting+interactive+experiences.;Always+learning+something+new.🚀" alt="Typing SVG" />
 </div>
 
 
 ---
-
-<h3 align="center">Let’s create something amazing together 🚀</h3>
