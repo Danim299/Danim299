@@ -70,11 +70,15 @@
 
 ---
 
+### 👨🏼‍💻 Currently employed at: [**Ézaro Legal**](https://www.ezarolegal.es) as an IT Technician
+In my day to day life I do cool things like programming in AppScript, providing IT support to employees and automations in a CRM, among other things.
+
+---
+
 ### ✨ Dynamic Developer Vibes
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Code.+Design.+Ship.+Repeat.;Looking+for+clean+architecture.;Crafting+interactive+experiences.;Always+learning+something+new.🚀" alt="Typing SVG" />
 </div>
-
 
 ---
