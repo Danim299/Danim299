@@ -63,10 +63,10 @@
 ### 🚧 Currently Learning
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40"/>
+  📱 Getting deep into Swift & SwiftUI to explore the Apple ecosystem.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30"/>
 </p>
 
-- 📱 Getting deep into Swift & SwiftUI to explore the Apple ecosystem.
 
 ---
 
