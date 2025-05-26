@@ -2,14 +2,6 @@
 <h3 align="center">Creative Technologist | Code Craftsman | Software Developer from Spain</h3>
 
 <p align="center">
-  <em>
-    I don’t just write code — I build experiences.<br>
-    Looking for in my important projects 👇🏼</br>
-    Clean architecture, real-time interactions, and pixel-perfect UIs are my playground.
-  </em>
-</p>
-
-<p align="center">
   <a href="mailto:dm46688@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
