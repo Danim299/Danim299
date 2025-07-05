@@ -55,7 +55,7 @@ const daniel = {
   name: "Daniel Medina Cubero",
   role: "Cross-Platform Developer",
   focus: ["Full-Stack Development", "AI & Data Analysis"],
-  experience: "3+ years",
+  experience: "4+ years",
   specialties: [
     "Web/App Development with APIs",
     "Flask Applications",
